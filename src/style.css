@@ -2,4 +2,26 @@
 
 body{
     background: white;
+    margin: 0;
+    padding: 0;
+    width: 50vh;
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.contenedor{
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+h1{
+    margin-bottom: 45px;
+    font-weight: bold;
+}
+#excuse{
+    color: black;
+    font-weight: bold;
 }
